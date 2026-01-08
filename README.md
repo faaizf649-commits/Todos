@@ -1,6 +1,6 @@
 
 # web app to do list
-_
+- http://todos-react-vite.s3-website.eu-north-1.amazonaws.com/
 ## anggota kelompok
 - David Ahyar Kirana	22010032
 - Muhammad Faaiz Al Faqih	22010058
